@@ -2,10 +2,11 @@
 
 ***Ältere Weakaura-Versionen erlauben euch nur "legacy-Auras" zu erstellen. Für den Import braucht ihr aber die neuere Version***
 
-Um Weakauras zu importieren müsst ihr die jeweilige Weakaura auswählen
-Anschließend kopiert ihr die Textdatei (drückt auf RAW, dann öffnet sich der String und ihr könnt ihn einfacher kopieren)
-Öffnet ingame Weakauras mit dem Befehl /wa
-Klickt oben auf "Import"
-Paste
-Drückt auf Import
-Schließt das Import Fenster mit "Done"
+***Import von Weakauras***
+1. Um Weakauras zu importieren müsst ihr die jeweilige Weakaura auswählen
+2. Anschließend kopiert ihr die Textdatei (drückt auf RAW, dann öffnet sich der String und ihr könnt ihn einfacher kopieren)
+3. Öffnet ingame Weakauras mit dem Befehl /wa
+4. Klickt oben auf "Import"
+5. Paste
+6. Drückt auf Import
+7. Schließt das Import Fenster mit "Done"
