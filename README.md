@@ -10,3 +10,6 @@
 5. Paste
 6. Drückt auf Import
 7. Schließt das Import Fenster mit "Done"
+
+
+***Bei Fragen wendet euch gerne ingame an mich (Swaglana und Lana) oder im Discord***
