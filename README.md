@@ -1,4 +1,4 @@
-***DISCLAIMER: Es gibt viele Weakaura-Versionen für 3.3.5. Damit der Import funktioniert ladet euch die Weakaura-Version von Bunny67 runter: https://github.com/Bunny67/WeakAuras-WotLK*** 
+***DISCLAIMER: Es gibt viele Weakaura-Versionen für 3.3.5. Damit der Import funktioniert, ladet euch die Weakaura-Version von Bunny67 runter: https://github.com/Bunny67/WeakAuras-WotLK*** 
 
 ***Ältere Weakaura-Versionen erlauben euch nur "legacy-Auras" zu erstellen. Für den Import braucht ihr aber die neuere Version***
 
